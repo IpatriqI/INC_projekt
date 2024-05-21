@@ -1,9 +1,10 @@
 # INC_projekt
 Projekt z predmetu INC v 2. semestry - FIT VUT
 
-Hodnotenie: 20/20
+Odporúčam, aby ste brali moje riešenie len ako inšpiráciu.
 
 > [!CAUTION]
-> Slúži len ako inšpirácia.
-> 
-> Neodporúčam kopírovať, plagiát za to nestojí!!!
+> Nekopírovať, plagiát za to nestojí!
+
+> [!NOTE]
+> Hodnotenie: 20/20
